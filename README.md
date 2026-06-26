@@ -4,7 +4,7 @@ I'm an Information Technology student, who's passionate about technology and alw
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](K www.linkedin.com/in/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/
 morenoadinatha)
 
 ---
