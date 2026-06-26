@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello everyone 👋 I'm Moreno
 
-<!--
-**KoplarKoprol/KoplarKoprol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student, who's passionate about technology and always curious to learn something new. I enjoy exploring things like web development, cybersecurity and anything about tech.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](K www.linkedin.com/in/
+morenoadinatha)
+
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoplarKoprol&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
