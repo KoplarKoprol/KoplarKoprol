@@ -1,6 +1,6 @@
 # Hello everyone 👋 I'm Moreno
 
-I'm an Information Technology student, who's passionate about technology and always curious to learn something new. I enjoy exploring things like web development, cybersecurity and anything about tech.
+A college student, who still learning about programming
 
 ## 🌐 Socials:
 
